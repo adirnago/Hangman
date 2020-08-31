@@ -7,7 +7,9 @@ def get_values_from_user():
     return path_to_file, index_from_user
 """
 
-
+"""
+This line is test commit from github
+"""
 
 """
 def try_update_letter_guessed(letter_guessed, old_letters_guessed):
