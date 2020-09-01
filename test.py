@@ -8,8 +8,7 @@ def get_values_from_user():
 """
 
 """
-This line is test commit from github
-bla bla adir bla bla bloooooooooooooooooo adiiiirrrr hiiiii
+>>>>>>> fcfb75b593b306fb72e1d5fd7dda2bf850ebe87a
 """
 
 """
