@@ -1,3 +1,6 @@
+"""
+BLABLABLABLA
+"""
 #Todo DOCOMANTATION
 HANGMAN_ASCII_ART = " _    _\n" \
                     "| |  | |\n" \
