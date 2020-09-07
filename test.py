@@ -8,10 +8,7 @@ def get_values_from_user():
 """
 
 """
-here is my new line at 09/07/2020
-"""
-"""
-         this is the new line here
+here is my new line at 09/07/2020 
 """
 """
 >>>>>>> fcfb75b593b306fb72e1d5fd7dda2bf850ebe87a
